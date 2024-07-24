@@ -1,16 +1,10 @@
 # Task Manager App
 
-This is a Task Manager application
+A Task Manager application.
 
 # Technologies Used
 
-React
-TypeScript.
-Prisma
-PostgreSQL
-Vercel
-Next.js
-pnpm
+React, TypeScript, Prisma, PostgreSQL, Vercel, Next.js and pnpm
 
 # Setup and Installation
 
@@ -23,7 +17,7 @@ Install dependencies:
 pnpm install
 
 Add .env in the root directory
-.env will be sent separately
+.env will be sent separately.
 
 Run the development server:
 
